@@ -1,0 +1,17 @@
+.head-cont {
+  font-size: 20px;
+}
+.popUpCont {
+  margin: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.video-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.head1 {
+  cursor: pointer;
+}
